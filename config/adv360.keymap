@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
- &macro_grave  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5                &none                                                                                                     &mo 2  &kp N6  &kp N7     &kp N8   &kp N9         &kp N0     &kp QUESTION
-      &kp TAB   &kp Q   &kp W   &kp E   &kp R   &kp T                &none                                                                                                     &none   &kp Y   &kp U      &kp I    &kp O  &kp LESS_THAN         &kp PLUS
-      &kp ESC   &kp A   &kp S   &kp D   &kp F   &kp G                &none                    &none   &none                   &none                   &none                    &none   &kp H   &kp J      &kp K    &kp L          &kp P  &kp NON_US_HASH
-    &kp LSHFT   &kp Z   &kp X   &kp C   &kp V   &kp B                                                 &none                   &none                                                    &kp N   &kp M  &kp COMMA  &kp DOT      &kp MINUS        &kp RSHFT
-        &none   &none   &none   &none   &none                    &kp LCTRL  &mt RIGHT_ALT BACKSPACE   &none                   &none  &mt LEFT_COMMAND ENTER  &mt RIGHT_CONTROL SPACE           &none      &none    &none          &none            &none
+      &kp GRAVE  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5                &none                                                                                                     &mo 2  &kp N6  &kp N7     &kp N8   &kp N9         &kp N0     &kp QUESTION
+        &kp TAB   &kp Q   &kp W   &kp E   &kp R   &kp T                &none                                                                                                     &none   &kp Y   &kp U      &kp I    &kp O  &kp LESS_THAN         &kp PLUS
+        &kp ESC   &kp A   &kp S   &kp D   &kp F   &kp G                &none                    &none   &none                   &none                   &none                    &none   &kp H   &kp J      &kp K    &kp L          &kp P  &kp NON_US_HASH
+ &kp LEFT_SHIFT   &kp Z   &kp X   &kp C   &kp V   &kp B                                                 &none                   &none                                                    &kp N   &kp M  &kp COMMA  &kp DOT      &kp MINUS        &kp RSHFT
+          &none   &none   &none   &none   &none                    &kp LCTRL  &mt RIGHT_ALT BACKSPACE   &none                   &none  &mt LEFT_COMMAND ENTER  &mt RIGHT_CONTROL SPACE           &none      &none    &none          &none            &none
             >;
         };
 
